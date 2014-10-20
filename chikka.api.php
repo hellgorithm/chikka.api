@@ -45,7 +45,7 @@ $message = "your message here";
 $url = "https://post.chikka.com/smsapi/request";
 
 /*
- * 10 digit Short code you've configured in the server
+ * 10 digit Short code you've configured in your account
  */
 $shortcode = "0123456789";
 
